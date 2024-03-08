@@ -1,1 +1,1 @@
-ornek.py
+print("Hello World")
